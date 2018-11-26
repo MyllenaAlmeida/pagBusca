@@ -1,0 +1,36 @@
+body{
+	background-color: #FAFAFA;
+}
+
+.textoModo{
+	font-family: 'Rajdhani', sans-serif;
+	padding-top: 200px;
+	padding-bottom: 40px;
+}
+
+h5{
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+.areaForm{
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+.button{
+	background-color: #02A985;
+	color: #FAFAFA;
+
+}
+
+.button:hover{
+	background-color: #068587;
+}
+
+
+/*Media queires*/
+
+@media screen {
+	
+}
